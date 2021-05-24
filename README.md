@@ -2,9 +2,7 @@
 
 ![Live Site]: https://agrosjean.github.io/Portfolio-bello/
 
-![Screenshots]: <img width="1409" alt="Screen1" src="https://user-images.githubusercontent.com/74931814/117224096-254b4680-addd-11eb-92aa-b5a06606e627.png">
-<img width="1390" alt="Screen2" src="https://user-images.githubusercontent.com/74931814/117224485-10bb7e00-adde-11eb-8f19-6b88d9e85999.png">
-<img width="1252" alt="Screen3" src="https://user-images.githubusercontent.com/74931814/117224524-2335b780-adde-11eb-8724-8a00c5e4324b.png">
+![Screenshot 2021-05-24 at 08 25 22](https://user-images.githubusercontent.com/74931814/119347586-b5a4da80-bc69-11eb-92d7-8b81c9adfd71.png)
 
 
 # Introduction 
